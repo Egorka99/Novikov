@@ -1,1 +1,1 @@
-Novikov
+Novikov(deprecated)
